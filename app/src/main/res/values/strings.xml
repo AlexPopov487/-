@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">СловоСлов</string>
+    <string name="word_et_hint">Введи слово...</string>
+    <string name="tv_empty_response">Совпадений не нашлось. Попробуйте другое слово!</string>
+    <string name="snackBar_word_too_long_to_calculate">Слова длиннее 7 символов не поддерживаются.
+        Все претензии к разработчику</string>
+</resources>
